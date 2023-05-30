@@ -2,10 +2,10 @@ div{
     margin-top:50px;
      height: 723px; 
     width: 22%;
-    background-color: rgb(1, 1, 11); 
+    background-color: white; 
     border: 2px rgb(249, 242, 242) solid;
     float: left;
-    color: white;
+    color: black;
     padding: 20px;
 }
 
